@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libfastertransformer.a  CMakeFiles/fastertransformer.dir/cuda_kernels.cu.o CMakeFiles/fastertransformer.dir/open_attention.cu.o
+/usr/bin/ranlib ../../lib/libfastertransformer.a
